@@ -1,0 +1,1 @@
+# image-hotspot-plugin
